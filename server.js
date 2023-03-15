@@ -10,7 +10,7 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 600,
-  cities: 640
+  products: 444
 });
 
 app.use(cors());
