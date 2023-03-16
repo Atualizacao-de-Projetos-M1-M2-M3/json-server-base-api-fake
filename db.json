@@ -12,42 +12,42 @@
       "name": "Lightweight Jacket",
       "price": 100,
       "description": "Adicione um pouco de energia ao seu guarda-roupa de inverno com esta jaqueta vibrante...",
-      "image": "https://media.istockphoto.com/id/492696632/pt/foto/vista-da-ba%C3%ADa-de-todos-os-santos-em-salvador-bahia-brasil.jpg?s=612x612&w=0&k=20&c=nfe6kbifDeqnFZQBRisGz71qY3LVpgylH2a3UXS7dnc=",
+      "image": "file:///C:/Users/USER/Desktop/VS%20Code/M1%20T15/Sprints/Sprint%208/Entregas/m1-capstone-ecommerce-template-willianmascarenhas/img/moletom.svg",
       "id": 1
     },
     {
       "name": "Black Hat",
       "price": 100,
       "description": "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWlGZecEzOUdThqaTa5FwGdS8kpx4vyfUVg&usqp=CAU",
+      "image": "file:///C:/Users/USER/Desktop/VS%20Code/M1%20T15/Sprints/Sprint%208/Entregas/m1-capstone-ecommerce-template-willianmascarenhas/img/gorro.svg",
       "id": 2
     },
     {
       "name": "Mask",
       "price": 40,
       "description": "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CmS6GHwtLRBYmxItVjODwSDS8gzoeBd9vg&usqp=CAU",
+      "image": "file:///C:/Users/USER/Desktop/VS%20Code/M1%20T15/Sprints/Sprint%208/Entregas/m1-capstone-ecommerce-template-willianmascarenhas/img/mascara.svg",
       "id": 3
     },
     {
       "name": "T-Shirt",
       "price": 100,
       "description": "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylVcWPQW88_Jr8u9OwzDWO7hSqN6pqpNnKQ&usqp=CAU",
+      "image": "file:///C:/Users/USER/Desktop/VS%20Code/M1%20T15/Sprints/Sprint%208/Entregas/m1-capstone-ecommerce-template-willianmascarenhas/img/camiseta_preta.svg",
       "id": 4
     },
     {
       "name": "Short-Sleeve T-Shirt",
       "price": 100,
       "description": "Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso...",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxV-k-qUFn930H8KurYcr_SSeXuPrA2hLQcA&usqp=CAU",
+      "image": "file:///C:/Users/USER/Desktop/VS%20Code/M1%20T15/Sprints/Sprint%208/Entregas/m1-capstone-ecommerce-template-willianmascarenhas/img/camiseta_branca.svg",
       "id": 5
     },
     {
       "name": "Champion Packable Jacket",
       "price": 100,
       "description": "Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxV-k-qUFn930H8KurYcr_SSeXuPrA2hLQcA&usqp=CAU",
+      "image": "file:///C:/Users/USER/Desktop/VS%20Code/M1%20T15/Sprints/Sprint%208/Entregas/m1-capstone-ecommerce-template-willianmascarenhas/img/jaqueta.svg",
       "id": 6
     }
   ]
